@@ -7,7 +7,7 @@
     :hint-icon="$getHintIcon()"
     :required="$isRequired()"
     :state-path="$getStatePath()"
-    class="-mt-3 filament-seo-slug-input-wrapper"
+    class="filament-seo-slug-input-wrapper px-3"
 >
     <div
         x-data="{
